@@ -1,6 +1,6 @@
-
-public class AnotherClass (){
+package org.example;
+public class AnotherClass {
 
 }
-package org.example;
+
 
